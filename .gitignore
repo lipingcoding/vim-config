@@ -1,0 +1,5 @@
+autoload/
+plugged/
+.DS_Store
+*.swp
+.netrwhist
