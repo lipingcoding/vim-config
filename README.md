@@ -5,7 +5,9 @@ My personal vim-config
 ## Usage
 ```
 cd ~
-git clone git@github.com:lipingcoding/vim-config.git .vim
+git clone git@github.com:lipingcoding/vim-config.git
+mv vim-config/* ~/.vim
+rm -rf vim-config
 ```
 Then, open vim, and install plugins by following
 ```
